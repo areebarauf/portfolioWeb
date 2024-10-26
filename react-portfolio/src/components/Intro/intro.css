@@ -9,7 +9,7 @@
 
 .bg {
     position: absolute;
-    top: -4rem;
+    top: -3rem;
     right: 0;
     z-index: -1;
     object-fit: cover;
@@ -35,7 +35,7 @@
 }
 
 .introName {
-    color: yellow;
+    color: rgb(255, 206, 27);
 }
 
 .introPara {
