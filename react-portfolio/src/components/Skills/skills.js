@@ -12,23 +12,23 @@ const Skills = () => {
         <div class="skillBars">
             <div class="skillBar">
                 <img src={UIDesign} alt="UIDesign" class="skillBarImg"/>
-                <div class="skillbarText">
-                    <h2>Software Dev Projects</h2>
-                    <p>This is a demo text. Alter this</p>
+                <div class="skillBarText">
+                    <h2>Software Development</h2>
+                    <p>Proficient in building scalable backend systems using Python, Java, and Node.js. Experienced in microservices architecture, API development, and cloud solutions.</p>
                 </div>
             </div>
             <div class="skillBar">
                 <img src={WebDesign} alt="WebDesign" class="skillBarImg"/>
-                <div class="skillbarText">
-                    <h2>Data Analytics</h2>
-                    <p>This is a demo text. Alter this</p>
+                <div class="skillBarText">
+                    <h2>Data Engineering</h2>
+                    <p>Skilled in designing and implementing data pipelines using AWS services like Kinesis, S3, and DynamoDB. <br/> Expertise in ETL processes and real-time data processing.</p>
                 </div>
             </div>
             <div class="skillBar">
                 <img src={AppDesign} alt="AppDesign" class="skillBarImg"/>
-                <div class="skillbarText">
-                    <h2>Machine Learning Projects</h2>
-                    <p>This is a demo text. Alter this</p>
+                <div class="skillBarText">
+                    <h2>Data Analytics/<br/>Machine Learning</h2>
+                    <p>Experience with data analytics and machine learning projects. Skilled in data visualization, predictive modeling, and tools like TensorFlow and Scikit-Learn.</p>
                 </div>
             </div>
         </div>
